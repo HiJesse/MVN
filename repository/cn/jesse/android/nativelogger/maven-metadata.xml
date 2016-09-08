@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.jesse.android</groupId>
+  <artifactId>nativelogger</artifactId>
+  <versioning>
+    <release>0.1.0-test</release>
+    <versions>
+      <version>0.1.0-test</version>
+    </versions>
+    <lastUpdated>20160908031308</lastUpdated>
+  </versioning>
+</metadata>
