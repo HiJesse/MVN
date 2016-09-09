@@ -3,10 +3,11 @@
   <groupId>cn.jesse.android</groupId>
   <artifactId>nativelogger</artifactId>
   <versioning>
-    <release>0.1.0-test</release>
+    <release>0.2.0-test</release>
     <versions>
       <version>0.1.0-test</version>
+      <version>0.2.0-test</version>
     </versions>
-    <lastUpdated>20160908031308</lastUpdated>
+    <lastUpdated>20160909034819</lastUpdated>
   </versioning>
 </metadata>
